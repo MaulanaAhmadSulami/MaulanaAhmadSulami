@@ -1,3 +1,4 @@
+<h1 align="center">🔮 About me :</h1>
 <h3 align="center">I'm currently learning Website developing 🖥️ and Game developing 🎲</h3>
 
 <h3 align="left">Connect with me:</h3>
